@@ -1,0 +1,5 @@
+- 👋 Welcome to Elif
+- 👀 We are focused on solving data problems
+- 🌱 We are currently building a toolset to easily solve data problems while reducing complexity
+- 💞️ We happy to share and collaborate on data problem
+- 📫 Please contact us info[at]elif.al
